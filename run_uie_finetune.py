@@ -55,7 +55,7 @@ from uie.seq2seq.trainer_arguments import ModelArguments, DataTrainingArguments
 
 
 logger = logging.getLogger(__name__)
-
+print('fwfefef')
 
 def main():
     # See all possible arguments in src/transformers/training_args.py
